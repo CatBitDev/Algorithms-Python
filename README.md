@@ -56,7 +56,7 @@
   <p>If you have suggestions for improving the explanations, making the code more beginner-friendly, or adding new algorithms suitable for beginners, we welcome your contributions! Feel free to open a pull request and join the effort to make this repository a valuable learning resource for everyone.</p>
 
   <h2 id="license">License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+  <p>This project is licensed under the <a href="LICENSE.md">MIT License</a>.</p>
 
 </body>
 </html>
