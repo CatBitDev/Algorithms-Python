@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="EN">
 <body>
 
   <h1>Python Algorithms Repository</h1>
@@ -20,7 +20,7 @@
     <li><b>Install Python:</b> If you haven't already, download and install Python from the official website: <a href="https://www.python.org/downloads/">Python Downloads</a>.</li>
     <li><b>Clone the Repository:</b> Use the following command to clone the repository to your local machine:</li>
   </ol>
-  <pre><code>git clone https://github.com/your-username/python-algorithms.git</code></pre>
+  <pre><code>git clone https://github.com/CatBitDev/Algorithms-Python.git</code></pre>
   <ol start="3">
     <li><b>Explore the Algorithms:</b> Inside the <code>algorithms</code> directory, you will find beginner-friendly implementations of sorting, searching, recursion, and graph algorithms. Open the Python files and read the comments to understand how each algorithm works.</li>
     <li><b>Experiment and Learn:</b> Modify the code, test different inputs, and experiment with the algorithms to deepen your understanding. Use them as building blocks to solve new problems!</li>
